@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'jbbr:astronomy-behaviors-lockable',
+  name: 'jbbr:astronomy-lockable-behavior',
   version: '0.0.1',
   summary: 'Lockable behavior for Meteor Astronomy',
   git: 'https://github.com/jbbr/meteor-astronomy-lockable-behavior',
